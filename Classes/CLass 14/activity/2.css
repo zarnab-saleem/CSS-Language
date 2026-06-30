@@ -1,0 +1,194 @@
+:root {
+    --containerbackground-color: black;
+    --container-border-radius: 35px;
+    --container-width: 75%;
+    --container-height: 60px;
+    --r1-width: 17%;
+    --r1-height: 30px;
+    --r2-width: 45%;
+    --r2-height: 30px;
+    --r3-width: 12%;
+    --r3-height: 30px;
+    --icon-width: 21%;
+    --icon-height: 30px;
+    --rborder-border: 1px solid white;
+    --icon-margin-left: 30px;
+    --findme-width: 55%;
+    --findme-height: 20px;
+    --font-family: Roboto;
+    --findme-color: white;
+    --findme-font-size: 17px;
+
+}
+
+.container {
+    align-items: center;
+    display: flex;
+    gap: 12%;
+    width: var(--container-width);
+    height: var(--container-height);
+    background-color: var(--containerbackground-color);
+    border-radius: var(--container-border-radius);
+}
+
+.r1 {
+    display: flex;
+    align-items: center;
+    width: var(--r1-width);
+    height: var(--r1-height);
+    margin-left: var(--margin-left);
+}
+
+.icon {
+    width: var(--icon-width);
+    height: var(--icon-height);
+    margin-left: var(--icon-margin-left);
+}
+
+.findme {
+    width: var(--findme-width);
+    height: var(--findme-height);
+    font-family: var(--font-family);
+    color: var(--findme-color);
+    font-size: var(--findme-font-size);
+}
+
+:root {
+    --home-width: 18%;
+    --home-height: 25px;
+    --home-background-color: white;
+    --home-border-radius: 15px;
+    --gap: 10px;
+    --justify-content: center;
+    --home-font-size: 14px;
+    --home-padding-top: 5px;
+    --home-text-align: center;
+    --cursor:pointer;
+    --cursorbgcolor-background-color:black;
+    --cursor-color:rgb(90, 87, 87);
+    --color:white;
+}
+
+.r2 {
+    display: flex;
+    gap: var(--gap);
+    justify-content: var(--justify-content);
+    width: var(--r2-width);
+    height: var(--r2-height);
+  
+}
+
+.home {
+    width: var(--home-width);
+    height: var(--home-height);
+    border-radius: var(--home-border-radius);
+    background-color: var(--cursorbgcolor-background-color);
+    color: var(--color);
+    text-align: var(--home-text-align);
+    font-size: var(--home-font-size);
+    padding-top: var(--home-padding-top);
+    font-family: var(--font-family);
+     cursor: var(--cursor);
+
+}
+
+.home:hover
+{
+       color: var(--cursor-color);
+       background-color: var(--home-background-color);
+}
+
+.app {
+    width: var(--home-width);
+    height: var(--home-height);
+    border-radius: var(--home-border-radius);
+    background-color: var(--home-background-color);
+    text-align: var(--home-text-align);
+    font-size: var(--home-font-size);
+    padding-top: var(--home-padding-top);
+    font-family: var(--font-family);
+ cursor: var(--cursor);
+ background-color: var(--cursorbgcolor-background-color);
+    color: var(--color);
+
+}
+
+
+
+
+.app:hover
+{
+       color: var(--cursor-color);
+       background-color: var(--home-background-color);
+}
+
+.blog {
+    width: var(--home-width);
+    height: var(--home-height);
+    border-radius: var(--home-border-radius);
+    background-color: var(--home-background-color);
+    text-align: var(--home-text-align);
+    font-size: var(--home-font-size);
+    padding-top: var(--home-padding-top);
+    font-family: var(--font-family);
+    cursor: var(--cursor);
+ background-color: var(--cursorbgcolor-background-color);
+    color: var(--color);
+
+
+}
+
+.blog:hover
+{
+       color: var(--cursor-color);
+       background-color: var(--home-background-color);
+}
+
+
+.aboutus {
+    width: var(--home-width);
+    height: var(--home-height);
+    border-radius: var(--home-border-radius);
+    background-color: var(--home-background-color);
+    text-align: var(--home-text-align);
+    font-size: var(--home-font-size);
+    padding-top: var(--home-padding-top);
+    font-family: var(--font-family);
+
+cursor: var(--cursor);
+ background-color: var(--cursorbgcolor-background-color);
+    color: var(--color);
+}
+
+
+
+.aboutus:hover
+{
+       color: var(--cursor-color);
+       background-color: var(--home-background-color);
+}
+
+:root {
+    --getapp-width: 83%;
+    --getapp-background-color: #75d7a1;
+    --get-justify-content: end;
+}
+
+.r3 {
+    display: flex;
+    justify-content: var(--get-justify-content);
+    width: var(--r3-width);
+    height: var(--r3-height);
+}
+
+.getapp {
+    width: var(--getapp-width);
+    height: var(--home-height);
+    background-color: var(--getapp-background-color);
+    border-radius: var(--home-border-radius);
+    font-family: var(--font-family);
+    color: var(--findme-color);
+    font-size: var(--home-font-size);
+    text-align: var(--home-text-align);
+    padding-top: var(--home-padding-top);
+}

@@ -1,0 +1,33 @@
+.container {
+        width: 50%;
+        height: 500px;
+        margin-left: 10px;
+}
+
+.box {
+        width: 100px;
+        height: 100px;
+        margin-left: 10px;
+        margin-top:30px;
+}
+
+#gradientbox1 {
+        background: linear-gradient(to bottom, #00aeff 10%, #00fc83 90%);
+}
+
+#gradientbox2 {
+        background: linear-gradient(to top, #00aeff 10%, #00fc83 90%);
+}
+
+#gradientbox3 {
+        background: linear-gradient(to right, #00aeff 10%, #00fc83 90%);
+}
+
+#gradientbox4 {
+        background: linear-gradient(to left, #00aeff, #00fc83);
+}
+
+#gradientbox5 {
+        background: linear-gradient(230deg, #00aeff, #00fc83);
+}
+

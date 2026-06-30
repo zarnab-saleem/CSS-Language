@@ -1,0 +1,42 @@
+.container
+{
+         width: 50%;
+      height: 500px;
+      margin-left: 10px;
+}
+
+
+
+#gradientbox1
+{
+        background: radial-gradient(circle  #00aeff , #00fc83);
+}
+
+#gradientbox2
+{
+        background: radial-gradient(ellipse at 20% 25%  #00aeff, #00fc83);
+}
+
+#gradientbox3
+{
+        background: radial-gradient(farthest-side at 90px , 10px #00aeff 10%, #00fc83 90%);
+}
+
+#gradientbox4
+{
+        background: radial-gradient(circle orange 20%,  #00aeff 50%, #00fc83 100%);
+}
+
+#gradientbox5
+{
+        background: radial-gradient(20% 50% at 75% 25%,  #00aeff, #00fc83);
+}
+
+
+
+.box
+{
+      width: 100px;
+      height: 100px;
+      margin-left: 10px;
+}

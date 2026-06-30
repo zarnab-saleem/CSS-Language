@@ -1,0 +1,11 @@
+.blendcontainer
+{
+      position: relative;
+      background-color: rgb(37, 217, 223);
+}
+
+.blending
+{
+      object-fit: cover;
+      mix-blend-mode: multiply;
+}

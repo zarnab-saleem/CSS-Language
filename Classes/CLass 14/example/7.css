@@ -1,0 +1,15 @@
+.maskedtext
+{
+     font-size: 100px;
+     font-weight: bolder;
+      border-radius: 5px;
+      margin: 100px;
+      background: url(images.jpeg);
+    
+
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: 0px;
+      background-clip: text;
+      color: transparent;
+}
