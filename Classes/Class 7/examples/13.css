@@ -1,0 +1,16 @@
+.block-element
+{
+       background-color: white;
+       margin-bottom: 10px;
+         width: 100px;
+        height: 100px;
+        display: block;
+        visibility: hidden;
+}
+.container
+{
+        background-color: blue;
+        padding: 10px;
+      
+        
+}

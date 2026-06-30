@@ -1,0 +1,21 @@
+.btn
+{
+       background-color: white;
+       color: green;
+       border: 1px solid green;
+       border-radius: 10px;
+       text-align: center;
+       font-size: 18px;
+       margin-bottom: 10px;
+         width: 200px;
+        height: 20px;
+         margin: auto;
+         cursor: pointer;
+}
+.btn:hover
+{
+        border: 1px solid green;
+        color: white;
+        background-color: green;
+         
+}

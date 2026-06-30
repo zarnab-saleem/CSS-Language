@@ -1,0 +1,92 @@
+.parent {
+    position: relative;
+    top: 250px;
+    left: 190px;
+
+    width: 970px;
+    height: 100px;
+    background-color: rgb(226, 220, 220);
+}
+
+.chiled {
+
+    position: relative;
+    top: 5px;
+    border-radius: 20px;
+    left: 15px;
+    width: 950px;
+    height: 90px;
+    background-color: white;
+
+}
+
+.checkbox {
+    position: relative;
+    top: 30px;
+    left: 20px;
+    accent-color: blueviolet;
+}
+
+.timedate {
+    position: relative;
+    left: 60px;
+    top: 10px;
+    color: rgb(168, 164, 164);
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.rivision {
+    position: relative;
+    top: 20px;
+    left: 60px;
+    color: rgb(46, 2, 87);
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.btn1 {
+    position: relative;
+    left: 520px;
+    width: 120px;
+    bottom: 20px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(212, 204, 219);
+}
+
+.btn2 {
+    position: relative;
+    left: 650px;
+    bottom: 60px;
+    width: 140px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(226, 212, 187);
+    color: orange;
+    font-family: sans-serif;
+}
+
+.btn1text {
+    position: relative;
+    left: 560px;
+    display: flex;
+    bottom: 90px;
+    color: blueviolet;
+    font-family: sans-serif;
+}
+
+.btn2text {
+    position: relative;
+    left: 680px;
+    bottom: 110px;
+    color: orange;
+    font-family: sans-serif;
+
+}.image
+{
+        position: relative;
+        left: 810px;
+        bottom: 150px;
+}

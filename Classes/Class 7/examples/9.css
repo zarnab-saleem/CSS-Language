@@ -1,0 +1,12 @@
+.block-element
+{
+       background-color: white;
+       margin-bottom: 10px;
+       display: block;
+}
+.container
+{
+        background-color: blue;
+        padding: 10px;
+        
+}
