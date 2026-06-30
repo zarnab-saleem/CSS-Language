@@ -1,0 +1,22 @@
+.box 
+{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    animation: box 2s ease-out infinite ;
+}
+
+@keyframes box {
+    10% 
+    {
+        width: 80px;
+    }
+
+    100% 
+    {
+        width: 190px;
+        background-color: red;
+
+    }
+
+}
