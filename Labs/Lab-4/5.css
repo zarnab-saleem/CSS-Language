@@ -1,0 +1,304 @@
+.container {
+    display: flex;
+    width: 1250px;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
+    background-color: rgb(228, 223, 223);
+}
+
+
+.container2 {
+    display: flex;
+    flex-direction: column;
+    width: 1230px;
+    height: 340px;
+    background-color: rgb(207, 204, 204);
+    border-radius: 10px;
+}
+
+.column1 {
+    display: flex;
+    width: 1050px;
+    height: 40px;
+    margin-left: 10px;
+
+}
+
+.tophotels {
+    width: 90px;
+    height: 30px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+    color: rgb(59, 58, 58);
+
+}
+
+.column2 {
+    display: flex;
+
+column-gap: 10px;    
+width: 1210px;
+    height: 210px;
+    ;
+    margin-left: 10px;
+
+}
+
+
+
+
+.row1 {
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+    background: url(hotel1.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.nextbox1 {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    position: relative;
+    top: -30px;
+    left: 10px;
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.boxcol1 {
+    display: flex;
+    width: 240px;
+    height: 30px;
+    column-gap: 10px;
+    margin-left: 10px;
+
+}
+
+
+
+.plus1 {
+    width: 50px;
+    margin-top: 5px;
+    height: 17px;
+    border-radius: 10px;
+    background-color: #10a5ee;
+        padding-top: 3px;
+
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+    font-weight: 600;
+}
+
+
+.beds {
+    width: 40px;
+    height: 20px;
+    margin-top: 10px;
+    font-family: sans-serif;
+
+    font-size: 10px;
+
+}
+
+
+.adult {
+    width: 50px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-family: sans-serif;
+
+}
+
+
+.textcol2 {
+    width: 150px;
+    height: 25px;
+    margin-top: 5px;
+    font-size: 16px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+
+.boxcol2 {
+    width: 240px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+.boxcol3 {
+    width: 240px;
+    height: 30px;
+    margin-left: 10px;
+}
+
+
+.textcol3 {
+    width: 33px;
+    height: 25px;
+    margin-top: 5px;
+    font-size: 15px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.smalltxtday {
+    width: 30px;
+    height: 15px;
+    margin-left: 38px;
+    margin-top: -20px;
+    font-size: 11px;
+    font-family: sans-serif;
+}
+
+.icon {
+    width: 30px;
+    height: 20px;
+    margin-left: 199px;
+    font-size: 12px;
+    margin-top: -20px;
+    font-family: sans-serif;
+}
+
+
+.digit {
+    width: 20px;
+    height: 20px;
+    color: rgb(92, 87, 87);
+    margin-left: 220px;
+    font-size: 12px;
+    margin-top: -20px;
+    font-size: 13px;
+    font-family: sans-serif;
+}
+
+.row2 {
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+    background: url(hotel2.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.row3 {
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+    background: url(hotel3.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+
+.column3
+{
+      display: flex;
+    row-gap: 10px;
+    width: 1210px;
+    height: 150px;
+    margin-left: 10px;
+}
+
+.nextbox2 {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    position: relative;
+    top: -30px;
+    left: 40px;
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.nextbox3 {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    position: relative;
+    top: -30px;
+    left: 70px;
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+}
+
+.row4 {
+    width: 280px;
+    height: 200px;
+    border-radius: 10px;
+    background: url(hotel4.jpeg);
+    background-size: cover;
+    background-position: center;
+}
+
+.nextbox4 {
+    display: flex;
+    flex-direction: column;
+    width: 260px;
+    position: relative;
+    top: -30px;
+    left: 100px;
+    background-color: white;
+    height: 100px;
+    border-radius: 10px;
+}
+
+
+.lux {
+    width: 40px;
+    margin-top: 5px;
+    height: 17px;
+    border-radius: 10px;
+    background-color: #fd950a;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+    padding-top: 3px;
+    font-weight: 600;
+}
+
+.penthouse {
+    width: 90px;
+    margin-top: 5px;
+    height: 17px;
+    border-radius: 10px;
+    background-color: #ee02b9;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    padding-left: 10px;
+        padding-top: 3px;
+
+    font-weight: 600;
+}
+
+.beds3 {
+    width: 40px;
+    height: 20px;
+    margin-top: 10px;
+    font-family: sans-serif;
+    
+    font-size: 10px;
+
+}
+
+
+.adult3 {
+    width: 50px;
+    height: 20px;
+    margin-top: 10px;
+    font-size: 10px;
+    font-family: sans-serif;
+}
