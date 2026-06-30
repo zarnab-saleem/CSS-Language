@@ -1,0 +1,18 @@
+.container
+{
+         display: flex;
+         flex-direction: column;
+         margin: 100px;
+         padding: 10px;
+         border: 1px solid black;
+         gap: 10px;
+         height: 600px;
+         align-content: start;
+}
+.item
+{
+        padding: 10px;
+        background-color: blue;
+        margin: 10px;
+        color: white;
+}

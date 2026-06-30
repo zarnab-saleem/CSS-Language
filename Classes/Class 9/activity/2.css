@@ -1,0 +1,42 @@
+.container {
+       margin-top: 100px;
+       margin-left: 200px;
+       width: 400px;
+       height: 400px;
+       border: 1px solid white;
+       background-image: linear-gradient(to bottom, rgb(219, 175, 93), rgb(206, 201, 201));
+}
+
+.ch {
+       width: 380px;
+       height: 380px;
+       margin-top: 10px;
+       margin-left: 10px;
+       border-radius: 15px;
+       background-color: white;
+}
+
+.box {
+       display: flex;
+       flex-direction: row;
+       display: flex;
+       width: 300px;
+       height: 90px;
+     
+       border-radius: 10px;
+       justify-content: center;
+}
+
+.ch1 
+{
+       width: 60px;
+       height: 50px;
+}
+
+.ch2 {
+       height: 50px;
+       margin-top: 10px;
+       width: 150px;
+       font-family: sans-serif;
+       font-size: large;
+}
