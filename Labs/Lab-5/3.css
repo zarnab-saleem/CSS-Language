@@ -1,0 +1,150 @@
+.mainbox {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 410px;
+    background-color: rgb(226, 218, 218);
+}
+
+.col1 {
+    width: 98%;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color:white;
+}
+
+.device {
+    width: 20%;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+
+}
+
+.col2 {
+    width: 98%;
+    display: flex;
+    gap: 5%;
+    align-items: center;
+    height: 180px;
+    background-color: white;
+}
+
+.img1 {
+    width: 20%;
+    height: 170px;
+    border-radius: 25px;
+    background-color: black;
+    background-image: url(headphone.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img2 {
+    width: 20%;
+    height: 170px;
+    border-radius: 25px;
+    background-color: black;
+    background-image: url(ps4joystick.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img3 {
+    width: 20%;
+    height: 170px;
+    border-radius: 25px;
+    background-color: black;
+    background-image: url(googlehome.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.img4 {
+    width: 20%;
+    height: 170px;
+    border-radius: 25px;
+    background-color: black;
+    background-image: url(xboxjoystick.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+
+.col3 {
+    display: flex;
+    width: 98%;
+    height: 150px;
+    gap: 5%;
+    background-color: rgb(243, 243, 243);
+}
+
+
+.box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+    height: 150px;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.logo {
+    width: 35%;
+    height: 60px;
+    background-color: rgb(230, 224, 224);
+    margin-top: -20%;
+    border-radius: 10px;
+
+}
+
+.text {
+    width: 60%;
+    height: 30px;
+    font-family: sans-serif;
+    color: rgb(100, 97, 97);
+    background-color: white;
+}
+
+
+.icons {
+    display: flex;
+    flex-wrap: wrap;
+    width: 80%;
+    justify-content: center;
+    height: 70px;
+    background-color: white;
+}
+
+.iconblut {
+    width: 35%;
+    height: 30px;
+    background-color: white;
+}
+
+
+.iconbatry {
+    width: 35%;
+    height: 30px;
+    background-color: white;
+}
+
+.icntext {
+    width: 35%;
+    height: 30px;
+    font-family: sans-serif;
+    background-color: white;
+}
+
+.icntext2 {
+    width: 35%;
+    height: 30px;
+    font-family: sans-serif;
+
+    background-color: white;
+}

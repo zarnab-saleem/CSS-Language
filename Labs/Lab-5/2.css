@@ -1,0 +1,290 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 72%;
+    align-items: center;
+    justify-content: center;
+    height: 370px;
+    background-color: rgb(224, 214, 214);
+   
+}
+
+
+
+.heading {
+    width: 97%;
+    height: 70px;
+    background-color: rgb(217, 212, 212);
+}
+
+h2 {
+    color: black;
+    font-family: sans-serif;
+}
+
+.cards {
+    display: flex;
+    flex-direction: row;
+    width: 97%;
+    column-gap: 30px;
+    height: 270px;
+    background-color:  rgb(214, 211, 211);
+}
+
+.card1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 45%;
+    row-gap: 10px;
+    height: 240px;
+    border-radius: 10px;
+     background-color: white;
+    color: black;
+    cursor: pointer;
+}
+
+.card1:hover{
+       background-color: blue;
+    color: white;
+}
+
+.c1 {
+    display: flex;
+    width: 90%;
+    align-items: center;
+    /* justify-content: center; */
+    column-gap: 5px;
+    height: 90px;
+}
+
+.img {
+    width: 13%;
+    border: 1px dashed;
+    border-radius: 10px;
+    height: 40px;
+    padding-top: 10px;
+}
+
+.sometxt {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    height: 46px;
+}
+
+.auto {
+    width: 100%;
+    height: 25px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+}
+
+.cars {
+    width: 100%;
+    height: 25px;
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-top: 10px;
+    color: rgb(177, 170, 170);
+
+}
+
+
+.icon1 {
+    width: 15%;
+    height: 30px;
+}
+
+.icon2 {
+    width: 5%;
+    height: 30px;
+}
+
+.c2 {
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    gap: 5px;
+    width: 90%;
+    height: 90px;
+}
+
+.dollars {
+    width: 25%;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.percentage {
+    width: 13%;
+    height: 38px;
+    font-family: sans-serif;
+
+    color: #5dc7f9;
+}
+
+.image {
+    width: 19%;
+    margin-left: 150px;
+    height: 60px;
+}
+
+.c3 {
+    display: flex;
+    gap: 15px;
+
+    align-items: center;
+    /* justify-content: center; */
+    width: 90%;
+    height: 50px;
+}
+
+.c3box1 {
+    display: flex;
+    gap: 5px;
+    width: 33%;
+    height: 40px;
+}
+
+.c3icon1 {
+    width: 20%;
+    height: 20px;
+    margin-bottom: 10px;
+
+}
+
+.c3digit1 {
+    width: 45%;
+    height: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.c3txt1 {
+    width: 25%;
+    height: 30px;
+        font-family: sans-serif;
+    color: rgb(80, 76, 76);
+}
+
+.c3box2 {
+    width: 33%;
+    display: flex;
+    gap: 5px;
+    height: 40px;
+}
+
+.c3icon2 {
+    width: 20%;
+    height: 25px;
+  margin-bottom: 10px;
+}
+
+.c3digit2 {
+    width: 40%;
+    height: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.c3txt2 {
+    width: 25%;
+    height: 30px;
+    font-family: sans-serif;
+    color: rgb(80, 76, 76);
+}
+
+.c3box3 {
+    display: flex;
+    gap: 5px;
+    width: 25%;
+    height: 40px;
+}
+
+
+.c3icon3 {
+    width: 20%;
+    height: 30px;
+
+}
+
+.c3digit3 {
+    width: 28%;
+    height: 30px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+
+.c3txt3 {
+    width: 25%;
+    height: 30px;
+        font-family: sans-serif;
+    color: rgb(80, 76, 76);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.card2 {
+    width: 45%;
+    height: 240px;
+    border-radius: 10px;
+    background-color: white;
+    color: black;
+    cursor: pointer;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card2:hover
+{
+       background-color: blue;
+       color: white;
+}
+
+.percentage2 {
+    width: 13%;
+    height: 38px;
+    font-family: sans-serif;
+
+    color: red;
+}
