@@ -1,0 +1,12 @@
+.container
+{
+       border: 1px solid black;
+}
+.item
+{
+      
+    background-color: rgb(26, 26, 107);
+   padding: 10px;
+   margin: 10px;
+   color: azure;
+}

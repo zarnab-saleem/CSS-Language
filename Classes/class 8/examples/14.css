@@ -1,0 +1,19 @@
+.container
+{
+        display: grid;
+        grid-template-columns: repeat(3, 100px);
+        gap: 10px;
+        justify-content: center;
+        align-content: center;
+        height: 200px;
+        border: 1px solid black;
+}
+.item
+{  
+   background-color: rgb(26, 26, 107);
+   padding: 20px;
+   color: azure;
+   font-size: 20px;
+   text-align: center;
+   border: 1px solid black;
+}

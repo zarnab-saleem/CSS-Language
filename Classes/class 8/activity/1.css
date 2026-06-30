@@ -1,0 +1,105 @@
+.parent {
+    display: grid;
+    grid-template-columns: 100%;
+    width: 1200px;
+    height: 120px;
+    background-color: rgb(212, 208, 208);
+    align-self: center;
+}
+
+.chiled {
+    border-radius: 20px;
+    display: grid;
+    margin-top: 10px;
+    margin-left: 10px;
+    grid-template-columns: 5% 40% 11% 14% 30%;
+    background-color: white;
+    width: 1180px;
+    height: 100px;
+}
+
+.checkboxP
+ {
+    display: grid;
+    grid-template-columns: 100%;
+    margin-top: -5px;
+    margin-left: 20px;
+}
+
+.checkbox 
+{
+    border: none;
+    appearance: none;
+    margin-top: 20px;
+    border: 2px solid blueviolet;
+    width: 3px;
+     accent-color: white;
+    grid-template-columns: 100%;
+    align-self: center;
+    background-color: white;
+    height: 3px;
+    padding-right: 15px;
+    padding-bottom: 13px;
+}
+
+.timedate {
+    color: rgb(183, 179, 179);
+    font-family: sans-serif;
+    margin-top: 35px;
+    font-size: 12px;
+}
+
+.rivision {
+    margin-top: 10px;
+    color: rgb(49, 8, 87);
+    font-family: sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.btn1 {
+    margin-top: 40px;
+    display: grid;
+    width: 110px;
+    grid-template-columns: 46% 46%;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(217, 202, 231);
+
+}
+
+.tag1 
+{
+    padding-left: 10px;
+    margin-top: 10px;
+}
+
+.team 
+{
+    color: blueviolet;
+    margin-top: 10px;
+}
+
+.btn2 {
+    margin-top: 40px;
+    display: grid;
+    width: 140px;
+    grid-template-columns: 46% 46%;
+    height: 35px;
+    border-radius: 10px;
+    background-color: rgb(245, 218, 170);
+}
+
+.tag2 {
+    padding-left: 20px;
+    margin-top: 10px;
+}
+
+.Important {
+    color: rgb(232, 156, 14);
+    margin-top: 10px;
+}
+
+.image {
+    margin-top: 30px;
+}
