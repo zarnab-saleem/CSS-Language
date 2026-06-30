@@ -1,0 +1,50 @@
+.container {
+    width: 50%;
+    height: 70px;
+    background-color: black;
+}
+
+.skills {
+    width: 70%;
+    height: 60px;
+    font-weight: bolder;
+    font-family: 1s sans-serif;
+    font-size: 19px;
+    /* color: greenyellow; */     
+    color: white;
+    padding-left: 15px;
+    padding-top: 20px;
+    margin-left: 10px;
+
+}
+
+.skills::before 
+{
+    content: "sdg";
+    width: 15px;
+    height: 10px;
+    font-weight: 800;
+    font-size: 35px;
+    margin-left: 30px;
+    padding-left: 1px;
+    color: greenyellow;
+     border-radius: 20px 0 0 20px;
+    background-color: greenyellow;
+}
+
+
+
+.skills::after
+{
+    content: "gds";
+    width: 15px;
+    height: 10px;
+    font-weight: 800;
+    font-size: 35px;
+    margin-top: -30px;
+    padding-left: 1px;
+    color: greenyellow;
+     border-radius: 0px 20px 20px 0px;
+    background-color: greenyellow;
+}
+

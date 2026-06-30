@@ -1,0 +1,19 @@
+p::first-letter
+{
+      font-size: 150%;
+      color: blue;
+}
+
+p::before
+{
+      content: " Note";
+      font-style: italic;
+      color: red;
+}
+
+p::after
+{
+      content: "-End of note";
+      font-style: italic;
+      color: green;
+}

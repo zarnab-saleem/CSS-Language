@@ -1,0 +1,15 @@
+input:focus
+{
+       outline: 2px solid red;
+}
+
+li:first-child
+{
+        font-weight: bold;
+}
+
+a:hover
+{
+       color: green;
+       text-decoration: none;
+}

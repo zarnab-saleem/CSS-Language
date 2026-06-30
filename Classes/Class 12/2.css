@@ -1,0 +1,14 @@
+.box
+{
+       width: 40px;
+       height: 40px;
+       background-color: blueviolet;
+       color: white;
+       margin: 10px;
+       padding: 10px;
+       text-align: center;
+}
+
+.container .box{
+    background-color: red;
+}
