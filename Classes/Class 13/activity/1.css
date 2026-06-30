@@ -1,0 +1,995 @@
+.container {
+    display: flex;
+    width: 100%;
+    height: 700px;
+    background-color: rgb(229, 225, 225);
+}
+
+.card1 {
+    display: flex;
+    flex-direction: column;
+    width: 66%;
+    gap: 5px;
+    height: 640px;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1 {
+    display: flex;
+    width: 90%;
+    height: 60px;
+}
+
+.circle {
+    width: 3%;
+    height: 40px;
+    background-color: black;
+    border-radius: 0px 25px 25px 0px;
+}
+
+.ats {
+    width: 5%;
+    height: 20px;
+    margin-top: 10px;
+    color: black;
+    margin-left: 10px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.devine {
+    width: 25%;
+    height: 20px;
+    color: black;
+    margin-top: 10px;
+    font-size: 15px;
+    margin-left: 5px;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.home {
+    width: 7%;
+    height: 20px;
+    margin-top: 10px;
+    color: black;
+    margin-left: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+
+.settings {
+    width: 10%;
+    height: 20px;
+    margin-top: 10px;
+    color: black;
+    margin-left: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+
+.help {
+    width: 7%;
+    height: 20px;
+    margin-top: 10px;
+    color: black;
+    margin-left: 5px;
+    font-size: 15px;
+    text-align: center;
+    font-weight: 600;
+    font-family: Roboto;
+}
+
+.input {
+
+    width: 33%;
+    height: 25px;
+    border-radius: 20px;
+    margin-top: 5px;
+    padding-left: 20px;
+}
+
+.search {
+    width: 3%;
+    height: 20px;
+    position: relative;
+    right: 30px;
+    top: 13px;
+}
+
+.c2 {
+    display: flex;
+    width: 90%;
+    height: 50px;
+    /* border: 1px solid black; */
+    align-items: center;
+}
+
+.overview {
+    width: 15%;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+
+}
+
+
+
+.clients {
+    width: 15%;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+
+}
+
+
+
+.account {
+    width: 15%;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+
+}
+
+.payments {
+    width: 15%;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+
+}
+
+.manage {
+    width: 8%;
+    height: 20px;
+    /* border: 1px solid black; */
+    font-size: 15px;
+    font-weight: 600;
+    font-family: Roboto;
+    margin-left: 31%;
+}
+
+.c3 {
+    display: flex;
+    width: 95%;
+    height: 490px;
+    background-color: white;
+}
+
+
+
+.box1 {
+    display: flex;
+    width: 14%;
+    height: 160px;
+    gap: 5px;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #095f59;
+}
+
+.boxc1 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    gap: 30px;
+    height: 60px;
+
+}
+
+.greenbox1 {
+    width: 24%;
+    height: 30px;
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.profit {
+    width: 30%;
+    height: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+.boxc2 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 30px;
+}
+
+.dollar {
+    width: 50%;
+    height: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+
+.boxc3 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin-top: 5px;
+    height: 40px;
+
+}
+
+.yearly {
+    width: 50%;
+    height: 40px;
+    color: rgb(240, 235, 235);
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+
+
+
+.box2 {
+    display: flex;
+    width: 14%;
+    height: 160px;
+    margin-left: 10px;
+    gap: 5px;
+    flex-direction: column;
+    border-radius: 10px;
+    background-color: #fdcf6e;
+}
+
+.boxc1 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    gap: 30px;
+    height: 60px;
+
+}
+
+.greenbox1 {
+    width: 35%;
+    height: 30px;
+    margin-left: 10px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+}
+
+.loss {
+    width: 30%;
+    height: 30px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+
+.boxc2 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    height: 30px;
+}
+
+.dollar2 {
+    width: 50%;
+    height: 25px;
+    color: black;
+    font-family: sans-serif;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+
+.boxc3 {
+    display: flex;
+    align-items: center;
+    width: 90%;
+    margin-top: 5px;
+    height: 40px;
+
+}
+
+.last {
+    width: 50%;
+    height: 40px;
+
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 100;
+    margin-left: 10px;
+}
+
+
+.box3 {
+    display: flex;
+    flex-direction: column;
+    width: 32%;
+    margin-left: 5px;
+    align-items: center;
+    height: 130px;
+    border: 2px solid rgb(208, 205, 205);
+    border-radius: 10px;
+}
+
+.b3c1 {
+    display: flex;
+    gap: 60%;
+    width: 90%;
+    height: 25px;
+    margin-top: 15px;
+}
+
+.canada {
+    width: 24%;
+    font-family: sans-serif;
+    height: 20px;
+}
+
+.view {
+    width: 20%;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: black;
+    height: 20px;
+}
+
+
+.b3c2 {
+    display: flex;
+    width: 90%;
+    height: 20px;
+}
+
+.top {
+    width: 80%;
+    height: 20px;
+    font-family: sans-serif;
+    font-weight: 600;
+    color: #0a0c1f;
+}
+
+
+.b3c3 {
+    display: flex;
+    align-items: center;
+    width: 95%;
+    height: 60px;
+}
+
+.ck {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #095f59;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 12px;
+}
+
+
+.tn {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #0f847d;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 12px;
+    position: relative;
+    right: 10px;
+}
+
+
+
+.rt {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #ffd681;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 12px;
+    position: relative;
+    right: 20px;
+}
+
+
+
+.uk {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #f8c760;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 12px;
+    position: relative;
+    right: 30px;
+}
+
+
+
+.wr {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #095f59;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 12px;
+    position: relative;
+    right: 40px;
+}
+
+
+
+.plus8 {
+    width: 14%;
+    border: 2px solid white;
+    height: 27px;
+    background-color: #0c0d0d;
+    font-family: sans-serif;
+    color: white;
+    text-align: center;
+    border-radius: 20px;
+    padding-top: 10px;
+    font-size: 13px;
+    position: relative;
+    right: 50px;
+}
+
+.box4 {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    height: 200px;
+    background-color: rgb(241, 236, 236);
+    margin-left: 150px;
+}
+
+.c4c1 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(230, 225, 225);
+}
+
+.today {
+    margin-top: 10px;
+    width: 100%;
+    height: 20px;
+    color: gray;
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+.dollar4 {
+    display: flex;
+    width: 100%;
+    margin-top: 10px;
+    height: 50px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 26px;
+
+}
+
+.b4i1 {
+    width: 20px;
+    height: 20px;
+    /* background-color: gray; */
+    position: relative;
+    bottom: 10px;
+    left: 70px;
+}
+
+.c4c2 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70px;
+    background-color: white;
+}
+
+
+.b4i2 {
+    width: 20px;
+    height: 20px;
+    /* background-color: gray; */
+    position: relative;
+    bottom: 0px;
+    left: 40px;
+}
+
+
+
+
+
+.c4c3 {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(230, 225, 225);
+}
+
+
+.card2 {
+    display: flex;
+    flex-direction: column;
+    width: 35%;
+    height: 700px;
+    background-color: #095f59;
+}
+
+.c2c1 {
+    display: flex;
+    width: 95%;
+    height: 70px;
+    align-items: center;
+}
+
+.subscribe {
+    margin-left: 10px;
+    width: 7%;
+    height: 20px;
+
+}
+
+.en {
+    margin-left: 10px;
+    width: 7%;
+    height: 20px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+
+}
+
+.james {
+    display: flex;
+    flex-direction: column;
+    width: 55%;
+    height: 45px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+.jamesheading {
+    width: 100%;
+    height: 25px;
+    text-align: end;
+    color: white;
+    font-family: sans-serif;
+    font-size: 19px;
+}
+
+.admin {
+    width: 100%;
+    height: 25px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 5px;
+    text-align: end;
+}
+
+.image {
+    width: 15%;
+    height: 48px;
+    margin-left: 10px;
+    border-radius: 30px;
+    background: url(bhai.jpg);
+    background-position: center;
+    background-size: cover;
+}
+
+.c2c2 {
+    width: 95%;
+    height: 210px;
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: #0c766f;
+    margin-left: 15px;
+}
+
+.martinia {
+    width: 95%;
+    height: 70px;
+    font-family: sans-serif;
+    font-size: 24px;
+    font-weight: 600;
+    color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+
+}
+
+.popular {
+    width: 95%;
+    height: 25px;
+    font-family: sans-serif;
+    font-size: 12px;
+    color: white;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.tick {
+    position: relative;
+    left: 75px;
+    bottom: 17px;
+}
+
+.twoM {
+    width: 92%;
+    height: 60px;
+    background-color: #095f59;
+    border-radius: 10px;
+    margin-left: 20px;
+
+}
+
+.dealers {
+    display: flex;
+    width: 92%;
+    height: 30px;
+
+}
+
+.deelar {
+    width: 32%;
+    text-align: center;
+    height: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+}
+
+
+
+.property {
+    text-align: center;
+    width: 32%;
+    height: 30px;
+    color: white;
+    margin-top: 10px;
+
+    font-family: sans-serif;
+    font-size: 13px;
+}
+
+
+
+.brokers {
+    width: 32%;
+    text-align: center;
+    height: 30px;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    margin-top: 10px;
+
+}
+
+
+
+.M2 {
+    display: flex;
+    width: 92%;
+    height: 30px;
+    background-color: #095f59;
+    border-radius: 10px;
+    margin-left: 20px;
+}
+
+.digit1 {
+    width: 20%;
+    color: white;
+    font-weight: 600;
+
+    font-family: sans-serif;
+    font-size: 13px;
+    text-align: center;
+    height: 30px;
+    background-color: #095f59;
+}
+
+.digit2 {
+    width: 36%;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+
+    height: 30px;
+    background-color: #095f59;
+}
+
+.digit3 {
+    width: 36%;
+    text-align: center;
+    color: white;
+    font-family: sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+    height: 30px;
+
+    background-color: #095f59;
+}
+
+.c2c3 {
+    width: 90%;
+    height: 20px;
+    margin-left: 12px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: white;
+    margin-top: 19px;
+}
+
+.c2c4 {
+    display: flex;
+    width: 95%;
+    height: 70px;
+    margin-left: 12px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: white;
+    margin-top: 19px;
+    background-color: #0c766f;
+    border-radius: 15px;
+    align-items: center;
+}
+
+.c2c4img {
+    width: 10%;
+    margin-left: 15px;
+    padding-top: 10px;
+    height: 30px;
+    background-color: #ffd681;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.c2c4r2 {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 40px;
+
+    margin-left: 10px;
+}
+
+.open {
+    width: 90%;
+    height: 20px;
+    font-size: 12px;
+
+}
+
+
+.c2c4digit {
+    width: 50%;
+    height: 20px;
+    font-weight: 600;
+    font-size: large;
+}
+
+
+
+.c2c5 {
+    display: flex;
+    width: 95%;
+    flex-direction: column;
+    height: 150px;
+    margin-left: 12px;
+    font-family: sans-serif;
+    font-size: 17px;
+    color: black;
+    margin-top: 19px;
+    background-color: #ffd681;
+    border-radius: 15px;
+    align-items: center;
+}
+
+.c2c5c1 {
+    display: flex;
+    width: 95%;
+    height: 50px;
+    margin-top: 18px;
+}
+
+.c2c5img {
+    width: 13%;
+    margin-left: 15px;
+    padding-top: 10px;
+    height: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+
+
+.c2c5r2 {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+    height: 40px;
+
+    margin-left: 10px;
+}
+
+.open {
+    width: 90%;
+    height: 20px;
+    font-size: 12px;
+
+}
+
+
+.c2c5digit {
+    width: 50%;
+    height: 20px;
+    font-weight: 600;
+    font-size: large;
+}
+
+.arrow1 {
+    width: 8%;
+    height: 22px;
+    border-radius: 20px;
+    background-color: #04625c;
+    position: relative;
+    right: 35px;
+}
+
+.arrow2 {
+    width: 8%;
+    height: 22px;
+    border-radius: 20px;
+    background-color: white;
+    position: relative;
+    right: 35px;
+    top: 10px;
+
+}
+
+
+.c2c5c2 {
+    display: flex;
+    width: 90%;
+    height: 20px;
+    margin-top: 20px;
+}
+
+.payal {
+    width: 31%;
+    height: 10px;
+    text-align: center;
+    font-size: 12px;
+
+
+}
+
+
+.bank {
+    width: 39%;
+    text-align: center;
+    height: 10px;
+    font-size: 12px;
+
+
+}
+
+
+.cheque {
+    text-align: center;
+    width: 33%;
+    height: 10px;
+    font-size: 12px;
+}
+
+
+
+.c2c6c2 {
+    display: flex;
+    width: 90%;
+    height: 20px;
+}
+
+.payal1 {
+    width: 37%;
+    height: 10px;
+    text-align: center;
+    font-size: 17px;
+    font-weight: 600;
+
+
+
+}
+
+
+.bank2 
+{
+    width: 33%;
+    text-align: center;
+    height: 10px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+.cheque3 {
+    text-align: center;
+    width: 33%;
+    height: 10px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+
+@media (max-width: 1200px)
+{
+    .card1
+    {
+         display: none;
+    } 
+    .card2
+    {
+        width: 95%;
+        height: 92vh;
+        row-gap: 15px;
+    }
+}

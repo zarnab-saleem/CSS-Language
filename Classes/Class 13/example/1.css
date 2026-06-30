@@ -1,0 +1,28 @@
+.container
+{
+       display: flex;
+       flex-direction: row;
+       align-items: center;
+       justify-content: center;
+}
+
+.box
+{
+      width: 100px;
+      height: 100px;
+      background-color: blueviolet;
+      margin: 10px;
+      color: white;
+      display: flex;
+      flex-direction: row;
+      align-items: center;
+      justify-content: center;
+}
+
+@media (max-width: 1200px) and (orientation: landscape)
+{
+    #box3
+    {
+            display: none;
+    }
+}
