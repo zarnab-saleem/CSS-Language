@@ -1,0 +1,195 @@
+.parent {
+    position: relative;
+    left: 200px;
+    top: 100px;
+    background-color:rgb(236, 229, 229);
+    width: 1050px;
+    height: 200px;
+}
+
+.chiled1 
+{
+    position: relative;
+    left: 10px;
+    top: 20px;
+    font-family: sans-serif;
+    font-size: 16px;
+    font-weight: 600;
+    color: gray;
+}
+
+.chiled2 
+{
+    position: relative;
+    left: 950px;
+    top: 5px;
+    font-family: sans-serif;
+    color: gray;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.box1
+{
+    position: relative;
+    top: 40px;
+    left: 10px;
+    border-radius: 20px;
+         width: 330px;
+         height: 100px;
+         background-color: rgb(38, 38, 156);
+}
+.box1ch1
+{
+        position: relative;
+        top: 20px;
+        left: 20px;
+        width: 60px;
+        height: 40px;
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 20px;
+        background-color: rgb(92, 92, 212);
+}
+
+.box1ch2
+{
+          position: relative;
+        top: -50px;
+        left: -20px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 14px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 500;
+}
+.box1ch3
+{
+            position: relative;
+        top: -55px;
+        left: -37px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 16px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 600;
+}
+
+.box2
+{
+    position: relative;
+    top: -60px;
+    left: 360px;
+    border-radius: 20px;
+         width: 330px;
+         height: 100px;
+         background-color: rgb(167, 167, 236);
+}
+.box2ch1
+{
+        position: relative;
+        top: 20px;
+        left: 20px;
+        width: 60px;
+        height: 40px;
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 20px;
+        background-color: rgb(146, 146, 224);
+}
+
+.box2ch2
+{
+          position: relative;
+        top: -50px;
+        left: -20px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 14px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 500;
+}
+.box2ch3
+{
+            position: relative;
+        top: -55px;
+        left: -15px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 16px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 600;
+}
+
+.box3
+{
+    position: relative;
+    top: -160px;
+    left: 710px;
+    border-radius: 20px;
+         width: 330px;
+         height: 100px;
+         background-color: rgb(247, 108, 131);
+}
+.box3ch1
+{
+        position: relative;
+        top: 20px;
+        left: 20px;
+        width: 60px;
+        height: 40px;
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 18px;
+        text-align: center;
+        padding-top: 20px;
+        background-color: rgb(235, 154, 168);
+}
+
+.box3ch2
+{
+          position: relative;
+        top: -50px;
+        left: -20px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 14px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 500;
+}
+.box3ch3
+{
+            position: relative;
+        top: -55px;
+        left: -33px;
+       
+        border-radius: 10px;
+        color: white;
+        font-family: sans-serif;
+        font-size: 16px;
+        text-align: center;
+        padding-top: 20px;
+        font-weight: 600;
+}
