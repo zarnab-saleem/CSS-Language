@@ -1,0 +1,124 @@
+.parent
+{
+       position: relative;
+       top: 200px;
+       left: 550px;
+       width: 400px;
+       height: 400px;
+       background-color: rgb(236, 234, 234);
+}
+.chiled1
+{
+        width: 90px;
+        position: relative;
+        top: 10px;
+        left: 10px;
+        
+}
+.chiled2
+{
+       position: relative;
+       bottom: 102px;
+       background-color: white;
+       left: 105px;
+       width: 285px;
+       height: 95px;
+}
+.heading
+{
+        color: rgb(66, 66, 139);
+        font-family: sans-serif;
+        font-size: 15px;
+        position: absolute;
+        left: 30px;
+        bottom: 40px;
+}
+.account
+{
+        position: relative;
+        left: 30px;
+        top: 60px;
+        font-size: 12px;
+        color: rgb(139, 138, 138);
+        font-family: sans-serif;
+        font-weight: 560;
+}
+.chiled3
+{
+       position: relative;
+       bottom: 95px;
+       left: 10px;
+       width: 380px;
+       height: 275px;
+       background-color: white;
+}
+.icons
+{
+        position: absolute;
+        left: 10px;
+        bottom: 70px;
+}
+.apple
+{
+        font-family: sans-serif;
+        font-size: 12px;
+          font-weight: 800;
+        color: rgb(66, 66, 139);
+        position: absolute;
+        bottom: 200px;
+        left: 90px;
+}
+.zoma
+{  
+                color: rgb(66, 66, 139);
+ font-family: sans-serif;
+        font-size: 12px;
+        font-weight: 800;
+        position: absolute;
+        bottom: 160px;
+        left: 90px; 
+}
+.digit
+{
+                color: rgb(66, 66, 139);
+         font-family: sans-serif;
+        font-size: 12px;
+          font-weight: 800;
+        position: absolute;
+        bottom: 120px;
+        left: 90px;
+}
+.open
+{
+                color: rgb(66, 66, 139);
+           font-family: sans-serif;
+        font-size: 12px;
+          font-weight: 800;
+        position: absolute;
+        bottom: 80px;
+        left: 90px;
+}
+.greaterthan
+{
+                color: rgb(66, 66, 139);
+
+        position: absolute;
+        left: 330px;
+        font-size: 600;
+}
+#one
+{
+       bottom: 200px;
+}
+#two
+{
+        bottom: 160px;
+}
+#three
+{
+        bottom: 110px;
+}
+#four
+{
+        bottom: 70px;
+}

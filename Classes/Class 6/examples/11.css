@@ -1,0 +1,16 @@
+.card_design
+{
+       border: 1px solid black;
+       width: 200px;
+       height: 200px;
+       border-radius: 10px;
+       margin: 100px;
+       padding: 100px;
+       background-color: black;
+       color: white;
+       background-image: url(image.png);
+       background-repeat: no-repeat ;
+       background-size: cover;
+       display: none;
+
+}

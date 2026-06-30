@@ -1,0 +1,35 @@
+.font_special
+{
+      font-family: controls;
+      font-size: 100px;
+      font-style: italic;
+      font-weight: lighter;
+      color: blue;
+}
+h2
+{
+      text-align: center;
+}
+
+h2
+{
+        text-align: left;
+}
+h3
+{
+       text-align: right;
+}
+
+p
+{
+    text-transform: uppercase;
+    text-align: line-through;
+}      
+
+span
+{
+       letter-spacing: 8px;
+       line-height: 50px;
+       word-spacing: 20px;
+       white-space: pre;
+}
