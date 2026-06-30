@@ -1,0 +1,18 @@
+
+
+
+
+
+.box
+
+
+{
+      background-color: blue;
+      color: white;
+      border-radius: 10px;
+      width: 100px;
+      height: 100px;
+      margin: 50px;
+      transform: skewY(-20deg);
+      border: 1px solid black;
+}

@@ -1,0 +1,10 @@
+.box
+{
+      background-color: blue;
+      color: white;
+      border-radius: 10px;
+      width: 100px;
+      height: 100px;
+      transform: scale(2 , 2);
+      margin: 50px;
+}

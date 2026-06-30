@@ -1,0 +1,9 @@
+.box
+{
+      background-color: blue;
+      color: white;
+      border-radius: 10px;
+      width: 100px;
+      height: 100px;
+      transform: translate(50px , 50px);
+}
