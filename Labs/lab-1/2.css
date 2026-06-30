@@ -1,0 +1,211 @@
+.main
+{
+    width: 1300px;
+    height: 500px;
+    margin:80px;
+}
+.child2{
+    width:1300px;
+    height:300px;
+}
+.skillsbox
+{
+       width: 1300px;
+       height: 200px;
+       background-color: white;
+}
+.ptag{
+    color:gray;
+    margin-bottom: -77px;
+}
+.explorebutton
+{
+       width: 140px;
+       height: 40px;
+       background-color: blue;
+       color: azure;
+       padding-top: 20px;
+       margin-left: 940px;
+       padding-left: 30px;
+}
+.box1
+{
+    border: 2px rgb(167, 145, 106);
+    width: 200px;
+    height: 200px;
+    margin-top:30px;
+}
+.logo
+{
+       width: 40px;
+       height: 30px; 
+       background-color: rgb(145, 92, 196);
+       color: azure;
+       margin-left: 20px;
+}
+h2
+{
+    color: rgb(97, 54, 138);
+}
+.pcolor{
+    color: rgb(108, 68, 145);
+}
+.buttcolor
+{
+    border: 1px solid white;
+    width: 200px;
+     height: 40px;
+      color: white;
+      background-color: rgb(150, 150, 171);
+      text-align: left;
+}
+.box2
+{
+    border: 3px solid blue;
+    width: 200px;
+    height: 200px;
+    margin-left:220px;
+    margin-top: -230px;
+    
+}
+.logopyth
+{
+       width: 30px;
+       height: 30px;
+       background-color: blue;
+       margin-top: 20px;
+       margin-left: 20px;
+}
+.textcolor
+{
+     color: rgb(170, 90, 245);
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.paracolor
+{
+        color: blueviolet;
+        margin-left: 10px;
+}
+.button
+{
+       width: 200px;
+       height: 40px;
+       color: white;
+       background-color: blue;
+       margin-top: 34px;
+       text-align: left;
+}
+.box3
+{
+    width: 200px;
+    height: 200px;
+    margin-left:440px;
+    margin-top: -210px;
+}
+.logodesign
+{
+      width: 30px;
+       height: 30px;
+       background-color: blue;
+       margin-top: 20px;
+       margin-left: 20px;
+}
+.headingcolor
+{
+     color: rgb(170, 90, 245);
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.txtcolor
+{
+         color: blueviolet;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+.buttoncolor
+{
+       width: 200px;
+       height: 40px;
+       color: white;
+       background-color: rgb(158, 158, 183);
+       margin-top: 34px;
+       text-align: left;
+       
+}
+
+.box4
+{
+    width: 200px;
+    height: 200px;
+    margin-left:660px;
+    margin-top: -220px;
+}
+.logosketch
+{
+      width: 30px;
+       height: 30px;
+       background-color: blue;
+       margin-top: 20px;
+       margin-left: 20px;
+}
+.headcolor
+{
+     color: rgb(170, 90, 245);
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.tcolor
+{
+         color: blueviolet;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+.bcolor
+{
+       width: 200px;
+       height: 40px;
+       color: white;
+       background-color: rgb(158, 158, 183);
+       margin-top: 34px;
+       text-align: left;
+       
+}
+
+.box5
+{
+    width: 200px;
+    height: 200px;
+    margin-left:900px;
+    margin-top: -220px;
+}
+.logogruntt
+{
+      width: 30px;
+       height: 30px;
+       background-color: blue;
+       margin-top: 20px;
+       margin-left: 20px;
+}
+.hcolor
+{
+     color: rgb(170, 90, 245);
+     margin-left: 10px;
+     margin-top: 20px;
+}
+.txcolor
+{
+         color: blueviolet;
+        margin-left: 10px;
+        margin-top: 10px;
+}
+.bttcolor
+{
+       width: 200px;
+       height: 40px;
+       color: white;
+       background-color: rgb(158, 158, 183);
+       margin-top: 34px;
+       text-align: left;
+       
+}
